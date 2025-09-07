@@ -1,0 +1,793 @@
+[
+  {
+    "Titulo": "Cien años de soledad",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 417,
+    "Editorial": "Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "1984",
+    "Autor": "George Orwell",
+    "Número páginas": 328,
+    "Editorial": "Secker & Warburg",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "El principito",
+    "Autor": "Antoine de Saint-Exupéry",
+    "Número páginas": 96,
+    "Editorial": "Reynal & Hitchcock",
+    "Idioma": "Francés"
+  },
+  {
+    "Titulo": "Don Quijote de la Mancha",
+    "Autor": "Miguel de Cervantes",
+    "Número páginas": 863,
+    "Editorial": "Francisco de Robles",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El señor de los anillos",
+    "Autor": "J.R.R. Tolkien",
+    "Número páginas": 1178,
+    "Editorial": "George Allen & Unwin",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Orgullo y prejuicio",
+    "Autor": "Jane Austen",
+    "Número páginas": 279,
+    "Editorial": "T. Egerton, Whitehall",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Crimen y castigo",
+    "Autor": "Fiódor Dostoievski",
+    "Número páginas": 540,
+    "Editorial": "El Mensajero Ruso",
+    "Idioma": "Ruso"
+  },
+  {
+    "Titulo": "Moby Dick",
+    "Autor": "Herman Melville",
+    "Número páginas": 635,
+    "Editorial": "Richard Bentley",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Ulises",
+    "Autor": "James Joyce",
+    "Número páginas": 730,
+    "Editorial": "Shakespeare and Company",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Guerra y paz",
+    "Autor": "León Tolstói",
+    "Número páginas": 1225,
+    "Editorial": "El Mensajero Ruso",
+    "Idioma": "Ruso"
+  },
+  {
+    "Titulo": "En busca del tiempo perdido",
+    "Autor": "Marcel Proust",
+    "Número páginas": 4215,
+    "Editorial": "Grasset",
+    "Idioma": "Francés"
+  },
+  {
+    "Titulo": "Madame Bovary",
+    "Autor": "Gustave Flaubert",
+    "Número páginas": 329,
+    "Editorial": "Revue de Paris",
+    "Idioma": "Francés"
+  },
+  {
+    "Titulo": "Hamlet",
+    "Autor": "William Shakespeare",
+    "Número páginas": 234,
+    "Editorial": "Nicholas Ling y John Trundell",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Los miserables",
+    "Autor": "Victor Hugo",
+    "Número páginas": 1463,
+    "Editorial": "A. Lacroix, Verboeckhoven et Cie.",
+    "Idioma": "Francés"
+  },
+  {
+    "Titulo": "Anna Karenina",
+    "Autor": "León Tolstói",
+    "Número páginas": 864,
+    "Editorial": "El Mensajero Ruso",
+    "Idioma": "Ruso"
+  },
+  {
+    "Titulo": "El gran Gatsby",
+    "Autor": "F. Scott Fitzgerald",
+    "Número páginas": 180,
+    "Editorial": "Charles Scribner's Sons",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "La metamorfosis",
+    "Autor": "Franz Kafka",
+    "Número páginas": 80,
+    "Editorial": "Kurt Wolff Verlag",
+    "Idioma": "Alemán"
+  },
+  {
+    "Titulo": "El retrato de Dorian Gray",
+    "Autor": "Oscar Wilde",
+    "Número páginas": 254,
+    "Editorial": "Ward Lock & Company",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Frankenstein",
+    "Autor": "Mary Shelley",
+    "Número páginas": 280,
+    "Editorial": "Lackington, Hughes, Harding, Mavor & Jones",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Drácula",
+    "Autor": "Bram Stoker",
+    "Número páginas": 418,
+    "Editorial": "Archibald Constable and Company",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Matar a un ruiseñor",
+    "Autor": "Harper Lee",
+    "Número páginas": 281,
+    "Editorial": "J.B. Lippincott & Co.",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "La Odisea",
+    "Autor": "Homero",
+    "Número páginas": 541,
+    "Editorial": "Desconocida",
+    "Idioma": "Griego antiguo"
+  },
+  {
+    "Titulo": "La Divina Comedia",
+    "Autor": "Dante Alighieri",
+    "Número páginas": 798,
+    "Editorial": "Desconocida",
+    "Idioma": "Italiano"
+  },
+  {
+    "Titulo": "El nombre de la rosa",
+    "Autor": "Umberto Eco",
+    "Número páginas": 512,
+    "Editorial": "Bompiani",
+    "Idioma": "Italiano"
+  },
+  {
+    "Titulo": "Un mundo feliz",
+    "Autor": "Aldous Huxley",
+    "Número páginas": 311,
+    "Editorial": "Chatto & Windus",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Rayuela",
+    "Autor": "Julio Cortázar",
+    "Número páginas": 656,
+    "Editorial": "Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El extranjero",
+    "Autor": "Albert Camus",
+    "Número páginas": 123,
+    "Editorial": "Gallimard",
+    "Idioma": "Francés"
+  },
+  {
+    "Titulo": "Crimen en el Orient Express",
+    "Autor": "Agatha Christie",
+    "Número páginas": 256,
+    "Editorial": "Collins Crime Club",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "El alquimista",
+    "Autor": "Paulo Coelho",
+    "Número páginas": 192,
+    "Editorial": "Rocco",
+    "Idioma": "Portugués"
+  },
+  {
+    "Titulo": "Siddhartha",
+    "Autor": "Hermann Hesse",
+    "Número páginas": 152,
+    "Editorial": "S. Fischer Verlag",
+    "Idioma": "Alemán"
+  },
+  {
+    "Titulo": "Lo que el viento se llevó",
+    "Autor": "Margaret Mitchell",
+    "Número páginas": 1037,
+    "Editorial": "Macmillan",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Cumbres borrascosas",
+    "Autor": "Emily Brontë",
+    "Número páginas": 348,
+    "Editorial": "Thomas Cautley Newby",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Las uvas de la ira",
+    "Autor": "John Steinbeck",
+    "Número páginas": 464,
+    "Editorial": "Viking Press",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Fahrenheit 451",
+    "Autor": "Ray Bradbury",
+    "Número páginas": 158,
+    "Editorial": "Ballantine Books",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Rebelión en la granja",
+    "Autor": "George Orwell",
+    "Número páginas": 112,
+    "Editorial": "Secker & Warburg",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "El lobo estepario",
+    "Autor": "Hermann Hesse",
+    "Número páginas": 249,
+    "Editorial": "S. Fischer Verlag",
+    "Idioma": "Alemán"
+  },
+  {
+    "Titulo": "El Aleph",
+    "Autor": "Jorge Luis Borges",
+    "Número páginas": 178,
+    "Editorial": "Editorial Losada",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Pedro Páramo",
+    "Autor": "Juan Rulfo",
+    "Número páginas": 124,
+    "Editorial": "Fondo de Cultura Económica",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La casa de los espíritus",
+    "Autor": "Isabel Allende",
+    "Número páginas": 433,
+    "Editorial": "Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Veinte poemas de amor y una canción desesperada",
+    "Autor": "Pablo Neruda",
+    "Número páginas": 88,
+    "Editorial": "Nascimiento",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El amor en los tiempos del cólera",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 348,
+    "Editorial": "Editorial Oveja Negra",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El diario de Ana Frank",
+    "Autor": "Ana Frank",
+    "Número páginas": 320,
+    "Editorial": "Contact",
+    "Idioma": "Neerlandés"
+  },
+  {
+    "Titulo": "El perfume",
+    "Autor": "Patrick Süskind",
+    "Número páginas": 255,
+    "Editorial": "Diogenes Verlag",
+    "Idioma": "Alemán"
+  },
+  {
+    "Titulo": "Seda",
+    "Autor": "Alessandro Baricco",
+    "Número páginas": 112,
+    "Editorial": "Feltrinelli",
+    "Idioma": "Italiano"
+  },
+  {
+    "Titulo": "Demian",
+    "Autor": "Hermann Hesse",
+    "Número páginas": 160,
+    "Editorial": "S. Fischer Verlag",
+    "Idioma": "Alemán"
+  },
+  {
+    "Titulo": "La insoportable levedad del ser",
+    "Autor": "Milan Kundera",
+    "Número páginas": 320,
+    "Editorial": "Gallimard",
+    "Idioma": "Checo"
+  },
+  {
+    "Titulo": "El guardián entre el centeno",
+    "Autor": "J.D. Salinger",
+    "Número páginas": 224,
+    "Editorial": "Little, Brown and Company",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Lo que queda del día",
+    "Autor": "Kazuo Ishiguro",
+    "Número páginas": 258,
+    "Editorial": "Faber and Faber",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "La carretera",
+    "Autor": "Cormac McCarthy",
+    "Número páginas": 241,
+    "Editorial": "Alfred A. Knopf",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "El viejo y el mar",
+    "Autor": "Ernest Hemingway",
+    "Número páginas": 127,
+    "Editorial": "Scribner's",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Las aventuras de Tom Sawyer",
+    "Autor": "Mark Twain",
+    "Número páginas": 304,
+    "Editorial": "Chatto & Windus",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "El Hobbit",
+    "Autor": "J.R.R. Tolkien",
+    "Número páginas": 310,
+    "Editorial": "George Allen & Unwin",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "El resplandor",
+    "Autor": "Stephen King",
+    "Número páginas": 447,
+    "Editorial": "Doubleday",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "El código Da Vinci",
+    "Autor": "Dan Brown",
+    "Número páginas": 454,
+    "Editorial": "Doubleday",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Harry Potter y la piedra filosofal",
+    "Autor": "J.K. Rowling",
+    "Número páginas": 223,
+    "Editorial": "Bloomsbury Publishing",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Los juegos del hambre",
+    "Autor": "Suzanne Collins",
+    "Número páginas": 374,
+    "Editorial": "Scholastic Press",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Canción de hielo y fuego",
+    "Autor": "George R.R. Martin",
+    "Número páginas": 694,
+    "Editorial": "Bantam Spectra",
+    "Idioma": "Inglés"
+  },
+  {
+    "Titulo": "Sapiens: De animales a dioses",
+    "Autor": "Yuval Noah Harari",
+    "Número páginas": 443,
+    "Editorial": "Debate",
+    "Idioma": "Hebreo"
+  },
+  {
+    "Titulo": "La sombra del viento",
+    "Autor": "Carlos Ruiz Zafón",
+    "Número páginas": 569,
+    "Editorial": "Planeta",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El laberinto de la soledad",
+    "Autor": "Octavio Paz",
+    "Número páginas": 368,
+    "Editorial": "Fondo de Cultura Económica",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Como agua para chocolate",
+    "Autor": "Laura Esquivel",
+    "Número páginas": 245,
+    "Editorial": "Planeta",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El túnel",
+    "Autor": "Ernesto Sabato",
+    "Número páginas": 140,
+    "Editorial": "Editorial Sur",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El tiempo entre costuras",
+    "Autor": "María Dueñas",
+    "Número páginas": 640,
+    "Editorial": "Temas de Hoy",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La catedral del mar",
+    "Autor": "Ildefonso Falcones",
+    "Número páginas": 672,
+    "Editorial": "Grijalbo",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La ciudad y los perros",
+    "Autor": "Mario Vargas Llosa",
+    "Número páginas": 366,
+    "Editorial": "Seix Barral",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La fiesta del Chivo",
+    "Autor": "Mario Vargas Llosa",
+    "Número páginas": 528,
+    "Editorial": "Alfaguara",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Crónica de una muerte anunciada",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 128,
+    "Editorial": "Editorial Bruguera",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El coronel no tiene quien le escriba",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 96,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El otoño del patriarca",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 272,
+    "Editorial": "Plaza & Janés",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La hojarasca",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 144,
+    "Editorial": "Editorial Zig-Zag",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El amor en los tiempos de la cólera",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 348,
+    "Editorial": "Editorial Oveja Negra",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "De amor y otros demonios",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 192,
+    "Editorial": "Editorial La Oveja Negra",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Noticia de un secuestro",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 275,
+    "Editorial": "Grupo Editorial Norma",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Vivir para contarla",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 595,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El general en su laberinto",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 288,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Memorias de mis putas tristes",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 128,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La increíble y triste historia de la cándida Eréndira y de su abuela desalmada",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 160,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Doce cuentos peregrinos",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 280,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Ojos de perro azul",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 144,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El mar del tiempo perdido",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 96,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La mala hora",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 256,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Isabel viendo llover en Macondo",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 64,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Diatriba de un hombre desesperado",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 80,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El último viaje del buque fantasma",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 48,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El rastro de tu sangre en la nieve",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 128,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El ahogado más hermoso del mundo",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 32,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El cuento del pescador",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 48,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Los funerales de la Mamá Grande",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 144,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La triste historia de la cándida Eréndira y su abuela desalmada",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 160,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El general en su laberinto",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 288,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Del amor y otros demonios",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 192,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Noticia de un secuestro",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 275,
+    "Editorial": "Grupo Editorial Norma",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El coronel no tiene quien le escriba",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 96,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El otoño del patriarca",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 272,
+    "Editorial": "Plaza & Janés",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La hojarasca",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 144,
+    "Editorial": "Editorial Zig-Zag",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El amor en los tiempos del cólera",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 348,
+    "Editorial": "Editorial Oveja Negra",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Cien años de soledad",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 417,
+    "Editorial": "Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Vivir para contarla",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 595,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El general en su laberinto",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 288,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Memorias de mis putas tristes",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 128,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La increíble y triste historia de la cándida Eréndira y de su abuela desalmada",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 160,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Doce cuentos peregrinos",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 280,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Ojos de perro azul",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 144,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El mar del tiempo perdido",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 96,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La mala hora",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 256,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Isabel viendo llover en Macondo",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 64,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Diatriba de un hombre desesperado",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 80,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El último viaje del buque fantasma",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 48,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El rastro de tu sangre en la nieve",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 128,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El ahogado más hermoso del mundo",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 32,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "El cuento del pescador",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 48,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "Los funerales de la Mamá Grande",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 144,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  },
+  {
+    "Titulo": "La triste historia de la cándida Eréndira y su abuela desalmada",
+    "Autor": "Gabriel García Márquez",
+    "Número páginas": 160,
+    "Editorial": "Editorial Sudamericana",
+    "Idioma": "Español"
+  }
+]
