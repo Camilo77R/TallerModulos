@@ -1,4 +1,4 @@
-# ejercicio de alcancio Pagina Web
+# ejercicio de alcancia Pagina Web
 
 https://68be215f7e1db64ff2344945--astounding-cupcake-018fc6.netlify.app/
 
