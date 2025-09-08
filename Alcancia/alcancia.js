@@ -1,6 +1,4 @@
 
-
-
 class Alcancia{
 
     constructor(){
@@ -25,6 +23,12 @@ class Alcancia{
         let totalMonto = this.moneda200 * 200 + this.moneda500 * 500 + this.moneda1000 * 1000;
 
         return totalMonto ;
+    }
+
+    resetearLaAlcancia(){
+        this.moneda200 =0;
+        this.moneda500 =0;
+        this.moneda1000 =0;
     }
 }
 export  default Alcancia;
