@@ -7,13 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    <form class="frm-container  flex flex-col gap-y-5 justify-center items-center  bg-slate-200 max-w-md px-3 rounded-md py-4  m-auto mt-20">
+    <form id="frm-container" class="flex flex-col gap-y-5 justify-center items-center  bg-slate-200 max-w-md px-3 rounded-md py-4  m-auto mt-20">
         <div>
             <h2 class="font-bold text-2xl text-gray-600 hover:text-cyan-300 ease-linear">Agenda de contactos</h2>
         </div>
         <div class="flex flex-col font-medium ">
             <label for="txt-identificacion" >Identificacion:</label>
-            <input type="text" id="txt-identificacion" class="w-[362px] py-1 rounded-sm  border-2 border-gray-50   focus:outline-zinc-500">
+            <input type="number" id="txt-identificacion" class="w-[362px] py-1 rounded-sm  border-2 border-gray-50   focus:outline-zinc-500">
         </div>
         <div class="flex flex-col font-medium ">
             <label for="txt-nombre">Nombre:</label>
@@ -31,32 +31,33 @@
             <label for="txt-celular">Celular:</label>
             <input type="text" id="txt-celular" class="w-[362px] py-1 rounded-sm  border-2 border-gray-50 focus:outline-zinc-500" >
         </div>
-
+        
         <div class=" flex gap-3 py-5 font-medium">
             <button id="btn-agregar" class="bg-green-500 p-2 rounded text-white  hover:bg-white hover:text-green-500">Agregar</button>
             <button id="btn-consultar" class="bg-gray-500 p-2 rounded text-white  hover:bg-white hover:text-black">Consultar</button>
             <button id="btn-actualizar" class="bg-gray-500 p-2 rounded text-white  hover:bg-white hover:text-black">Actualizar</button>
             <button id="btn-eliminar" class="bg-red-600 p-2 rounded text-white  hover:bg-white hover:text-red-600">Eliminar</button>
         </div>
-
+        
     </form>
-
-
-    <table>
-        <caption>Contactos en la base de datos XD</caption>
+    
+    
+    <table class="max-w-md p-6 m-auto mt-6 gap-3 ">
+        <caption class=" font-medium text-2xl max-w-64 bg-orange-600  rounded-md px-7 m-auto">Contactos en la base de datos XD</caption>
         <!-- encabezado de la tabla => cntiene las filas tr( con (los titulos de las cols th) -->
-        <thead> 
-            <!-- van los titutos de cada col de la tabla -->
+        <thead > 
+            <!-- van los titulos de cada col de la tabla -->
             <tr>
-                <th>Id</th>
-                <th>Nombre</th>
-                <th>Apellido</th>
-                <th>Correo</th>
-                <th>Celular</th>
-            </tr>
+                <th class="px-4 py-3 text-left text-sm font-medium text-gray-700">ID</th>
+                <th class="px-4 py-3 text-left text-sm font-medium text-gray-700">Nombre</th>
+                <th class="px-4 py-3 text-left text-sm font-medium text-gray-700">Apellido</th>
+                <th class="px-4 py-3 text-left text-sm font-medium text-gray-700">Correo</th>
+                <th class="px-4 py-3 text-left text-sm font-medium text-gray-700">Celular</th>
+            </tr>v
         </thead>
-        <tbody id="tbody"></tbody>
+        <tbody id="tbody" cclass="divide-y divide-gray-200"></tbody>
     </table>
     
 </body>
+<script type="module" src="./main.js"></script>
 </html>
