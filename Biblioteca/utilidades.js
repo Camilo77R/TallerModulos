@@ -1,6 +1,6 @@
 // import datosLibros from './libros.json';
 
-// apetir de la versiones mas recientes de node se usa with ya no assert
+// apartir de la versiones mas recientes de node se usa with ya no assert
 import datosLibros from './libros.json' with { type: 'json' };
 
 const consultarLibrosPorPalabraClaveTitulo = (palabraClave)=>{

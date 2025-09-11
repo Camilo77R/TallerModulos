@@ -1,6 +1,8 @@
 import { FnDeDescuento } from "./utilidades.js";
 
-import { calculateDiscount } from "./utilidades.js";    
+import { calculateDiscount } from "./utilidades.js";  //version 2
+
+
 console.log(FnDeDescuento(1200));//20 de descuento serin 960 pesos a pagar
 console.log(FnDeDescuento(756));//10 seria 680.5  pesos aprox
 console.log(FnDeDescuento(499));//devuele el mismo precio
