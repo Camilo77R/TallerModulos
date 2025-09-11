@@ -17,6 +17,12 @@ const $btnEliminar = document.querySelector("#btn-eliminar");
 const $tBody = document.querySelector("#tbody");
 
 
+// instacio la el objeto de Notyf para las alertas
+const notyf = new Notyf({
+    duration: 4000,
+    position: { x: 'right', y: 'top' }
+});
+
 
 // debo almacenar esos objetos en un array 
 const misContactos = [];
@@ -29,11 +35,27 @@ function agregarContacto(e){
     e.preventDefault();//prevengo que el button se comporte como subit gracias al event
     console.log("El botón fue seleccionado correctamente.");
     // instancio un objeto => le paso como valor a los params lo que tenga en cada campo perteneciente
-    const miContacto = new Contacto($txtId.value, $txtNombre.value, $txtApellido.value, $txtCorreo.value, $txtCelular.value);
-    misContactos.push(miContacto);
-    mostrarEnTabla()
+    // si el id ya esta no se puede agregar a otro con ese mismo id
+    
+    const idRepetida = verificarIdRepetido();
+    if(idRepetida !== true ){
+        const miContacto = new Contacto($txtId.value, $txtNombre.value, $txtApellido.value, $txtCorreo.value, $txtCelular.value);
+        misContactos.push(miContacto);
+        notyf.success('✅ Contacto agregado correctamente');
+
+        mostrarEnTabla();
+
+    }else{
+        notyf.error('❌ ID repetida, cámbiala!');
+    }
 }
 
+function verificarIdRepetido(){
+    let estaRepetida =  misContactos.some(c => c.identificacion === $txtId.value);
+    console.log(estaRepetida);
+    if(estaRepetida === true ) return true;//si existe el id  es true pero NO PUEDO Agregar
+    else return estaRepetida;//Es lo mismo que decir returna false
+}
 
 $btnAgregar.addEventListener("click", agregarContacto);
 
